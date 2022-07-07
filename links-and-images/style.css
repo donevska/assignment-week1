@@ -4,6 +4,7 @@
 
 img {
   display: block;
+  height: 300px;
 }
 p {
   border: 2px solid rebeccapurple;
